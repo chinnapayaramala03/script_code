@@ -3,4 +3,3 @@ echo "this script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "This was added $NUMBER"
 echo "EOF"
-echo Hello
